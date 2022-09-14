@@ -21,4 +21,4 @@ public class Conexao extends SQLiteOpenHelper {
         db.execSQL("drop table if exists meusjogos");
         this.onCreate(db);
     }
-}
+    }

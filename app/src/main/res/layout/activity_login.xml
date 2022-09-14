@@ -27,7 +27,7 @@
         android:drawableStart="@drawable/ic_email"
         android:drawablePadding="10dp"
         android:ems="10"
-        android:hint="@string/digite_seu_e_mail"
+        android:hint="@string/digite_seu_login"
         android:inputType="textEmailAddress"
         android:minHeight="48dp"
         app:layout_constraintBottom_toTopOf="@+id/senha"

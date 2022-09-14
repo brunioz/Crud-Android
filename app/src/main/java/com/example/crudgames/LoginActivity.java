@@ -31,7 +31,7 @@ public class LoginActivity extends AppCompatActivity {
                 if (user.getText().toString().equals("admin") && senha.getText().toString().equals("123")) {
                     startActivity(new Intent(this, ListarJogadoresActivity.class));
                 } else {
-                    Toast.makeText(this, "Usuario ou senha inválidos", Toast.LENGTH_SHORT).show();
+                    Toast.makeText(this, "Usuario ou senha inválidos, por favor preencha dados válidos", Toast.LENGTH_SHORT).show();
                 }
                 
             }
