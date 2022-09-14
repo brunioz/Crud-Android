@@ -20,14 +20,13 @@
         app:layout_constraintStart_toStartOf="parent" />
 
     <ImageView
-        android:id="@+id/imageView6"
-        android:layout_width="523dp"
-        android:layout_height="671dp"
-        android:rotationY="-182"
+        android:id="@+id/imageView"
+        android:layout_width="481dp"
+        android:layout_height="660dp"
+        app:layout_constraintBaseline_toBaselineOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintHorizontal_bias="0.496"
+        app:layout_constraintHorizontal_bias="0.489"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent"
-        app:srcCompat="@drawable/fundo_apresentacao" />
+        app:srcCompat="@drawable/img" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
