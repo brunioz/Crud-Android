@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Cadastro de Jogadores</string>
+    <string name="cadastrar_jogadores">Cadastrar Jogadores</string>
+    <string name="entrar">Entrar</string>
+    <string name="digite_sua_senha">Digite sua senha</string>
+    <string name="digite_seu_e_mail">Digite seu e-mail</string>
+    <string name="cadastrar_novos_jogadores">CADASTRAR NOVOS JOGADORES</string>
+    <string name="digite_seu_nick_no_jogo">Digite seu nick no jogo</string>
+    <string name="nick">Nick</string>
+    <string name="digite_um_jogo">Digite um jogo</string>
+    <string name="qual_foi_seu_maior_rank">Qual foi seu maior Rank?</string>
+</resources>
