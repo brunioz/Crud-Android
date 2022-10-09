@@ -13,9 +13,9 @@ public class SplashApresentacao extends AppCompatActivity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
+        getSupportActionBar().hide();
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_splash_apresentacao);
-
         new Handler().postDelayed(new Runnable() {
 
             @Override

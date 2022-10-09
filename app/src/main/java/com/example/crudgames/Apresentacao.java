@@ -14,6 +14,8 @@ public class Apresentacao extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_apresentacao);
 
+        getSupportActionBar().hide();
+
 
         Button btnInicial = findViewById(R.id.cadastroInicial);
 

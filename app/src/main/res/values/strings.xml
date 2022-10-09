@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">Cadastro de Jogadores</string>
+    <string name="app_name">IBM New Users</string>
     <string name="cadastrar_jogadores">Cadastrar Jogadores</string>
     <string name="entrar">Entrar</string>
     <string name="digite_sua_senha">Digite sua senha</string>
@@ -10,4 +10,16 @@
     <string name="digite_um_jogo">Digite um jogo</string>
     <string name="qual_foi_seu_maior_rank">Qual foi seu maior Rank?</string>
     <string name="digite_seu_login">Digite seu login</string>
+    <string name="nome">Nome</string>
+    <string name="digite_seu_nome">Digite seu nome</string>
+    <string name="jogo">Jogo</string>
+    <string name="maior_rank">Maior Rank</string>
+    <string name="salvar">Salvar</string>
+    <string name="excluir">Excluir</string>
+    <string name="atualizar">Atualizar</string>
+    <string name="apresentacao">Apresentacao</string>
+    <string name="login_image">login_image</string>
+    <string name="imagem_tela_login">imagem_tela_login</string>
+    <string name="bem_vindo">Bem Vindo</string>
+    <string name="primeiro_acesso_cadastre_se">Primeiro acesso? Cadastre-se!</string>
 </resources>
